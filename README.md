@@ -124,6 +124,6 @@ Compares payment realization, denial rates, payer performance, facility maturity
 ## Author
 
 **Lisa A. Phillips, MBA**  
-Healthcare Analytics | Business Intelligence | Medicare Operations
+Healthcare Operations & Analytics | Commercial, Medicare & Medicaid | Business Intelligence
 
 [LinkedIn](https://www.linkedin.com/in/lisaphillips106) · [GitHub](https://github.com/beachblondie106-coder)

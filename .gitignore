@@ -1,7 +1,0 @@
-*.sqlite
-__pycache__/
-*.pyc
-.venv/
-data/full/
-data/raw/
-data/interim/

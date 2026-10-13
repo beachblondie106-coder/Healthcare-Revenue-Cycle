@@ -8,7 +8,7 @@ Built with **Power BI, Power Query, DAX, Python, and SQL** to demonstrate an end
 
 ## Project Overview
 
-Revenue-cycle teams need a clear view of where reimbursement is being delayed, denied, or underpaid. This project brings claims, payer, facility, and follow-up information into a unified analytical model that supports both executive monitoring and operational investigation.
+Revenue-cycle teams need a clear view of where reimbursement is being delayed, denied, or underpaid. This project brings claims, payer, facility, and follow up information into one model for executive monitoring and operational review.
 
 The completed dataset contains:
 
@@ -60,8 +60,8 @@ Compares payment realization, denial rates, payer performance, facility maturity
 - **Authorization** is the leading initial denial reason, followed by coding and documentation issues.
 - Commercial claims produce the highest total payer payments but also the largest underpayment exposure.
 - Medicare has the strongest payment realization rate at **83.3%**, followed closely by commercial payers at **82.8%**.
-- Facility-level results reveal meaningful variation in outstanding balances and payment performance, supporting targeted follow-up rather than a single system-wide response.
-- A large share of claims remains in the medium-priority follow-up category, creating an opportunity to refine work queues using balance, age, denial, and underpayment indicators.
+- Facility-level results reveal meaningful variation in outstanding balances and payment performance, helping teams focus follow up where it is most needed.
+- A large share of claims remains in the medium-priority follow-up category, showing an opportunity to refine work queues using balance, age, denial, and underpayment indicators.
 
 ## Business Questions Addressed
 
@@ -105,7 +105,7 @@ Compares payment realization, denial rates, payer performance, facility maturity
 - **Python:** Synthetic data generation, data preparation, quality checks, and analytical modeling
 - **SQL:** Database creation, structured querying, and validation
 - **Healthcare analytics:** Claims, reimbursement, denials, underpayments, payer performance, aging, and revenue-cycle operations
-- **Data storytelling:** Translating detailed claims data into executive and operational insights
+- **Data storytelling:** Turning detailed claims data into clear executive and operational findings
 
 ## Repository Files
 
